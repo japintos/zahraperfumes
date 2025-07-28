@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-section">
             <div className="footer-logo">
-              <img src="img/logo detalle.jpg" alt="Sahra Perfumes" />
+              <img src="/img/logodetalle.jpg" alt="Sahra Perfumes" />
             </div>
             <p>
               Tu destino para encontrar las mejores fragancias. Ofrecemos una amplia 

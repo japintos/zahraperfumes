@@ -51,7 +51,7 @@ const Header = () => {
           {/* Logo */}
           <Link to="/" className="logo">
             <img 
-              src="/img/logo minimalista.jpg" 
+              src="/img/logominimalista.jpg" 
               alt="Sahra Perfumes" 
               className="logo-image"
             />
