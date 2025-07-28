@@ -55,7 +55,7 @@ const Header = () => {
               alt="Sahra Perfumes" 
               className="logo-image"
             />
-            <span className="logo-text">Sahra Perfumes</span>
+            <span className="logo-text">Zahra Perfumes</span>
           </Link>
 
           {/* Búsqueda */}
