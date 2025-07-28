@@ -21,6 +21,7 @@ import AdminContacts from './pages/admin/Contacts';
 import ProtectedRoute from './components/auth/ProtectedRoute';
 import AdminRoute from './components/auth/AdminRoute';
 import './App.css';
+import QuienesSomos from './pages/QuienesSomos';
 
 function App() {
   return (
@@ -42,6 +43,7 @@ function App() {
                     <Route path="/login" element={<Login />} />
                     <Route path="/register" element={<Register />} />
                     <Route path="/contact" element={<Contact />} />
+                    <Route path="/quienessomos" element={<QuienesSomos />} />
                     
                     {/* Rutas protegidas */}
                     <Route 

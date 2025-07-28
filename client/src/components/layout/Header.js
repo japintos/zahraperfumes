@@ -79,6 +79,7 @@ const Header = () => {
             <Link to="/" className="nav-link">Inicio</Link>
             <Link to="/products" className="nav-link">Productos</Link>
             <Link to="/contact" className="nav-link">Contacto</Link>
+            <Link to="/quienessomos" className="nav-link">Quiénes Somos</Link>
             
             {isAdmin && (
               <Link to="/admin" className="nav-link admin-link">
@@ -145,6 +146,7 @@ const Header = () => {
             <Link to="/" className="nav-link">Inicio</Link>
             <Link to="/products" className="nav-link">Productos</Link>
             <Link to="/contact" className="nav-link">Contacto</Link>
+            <Link to="/quienessomos" className="nav-link">Quiénes Somos</Link>
             
             {isAuthenticated ? (
               <>

@@ -34,6 +34,7 @@ const Footer = () => {
               <li><a href="/">Inicio</a></li>
               <li><a href="/products">Productos</a></li>
               <li><a href="/contact">Contacto</a></li>
+              <li><a href="/quienessomos">Quiénes Somos</a></li>
               <li><a href="/login">Mi Cuenta</a></li>
             </ul>
           </div>
