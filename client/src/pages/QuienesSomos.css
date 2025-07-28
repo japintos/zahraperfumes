@@ -1,3 +1,13 @@
+@media (max-width: 480px) {
+  .about-container {
+    padding: 12px;
+  }
+  .seller-card {
+    min-width: 140px;
+    padding: 12px 6px;
+    font-size: 0.95rem;
+  }
+}
 .about-container {
   max-width: 900px;
   margin: 40px auto;
